@@ -30,5 +30,19 @@ function submition(){
         alert("Born on Friday and your Akan name is " + maleNames[5]);
     } else if (Math.round(dayOfWeek) === 7 && gender === "male") {
         alert("Born on Saturday and your Akan name is " + maleNames[6]);
+    } else if (Math.round(dayOfWeek) == 1 && gender === "female") {
+        alert("Born on Sunday and your Akan name is " + femaleNames[0])
+    } else if (Math.round(dayOfWeek) == 2 && gender === "female") {
+        alert("Born on Monday and your Akan name is " + femaleNames[1])
+    } else if (Math.round(dayOfWeek) == 3 && gender === "female") {
+        alert("Born on Tuesday and your Akan name is " + femaleNames[2])
+    } else if (Math.round(dayOfWeek) == 4 && gender === "female") {
+        alert("Born on Wednesday and your Akan name is " + femaleNames[3])
+    } else if (Math.round(dayOfWeek) == 5 && gender === "female") {
+        alert("Born on Thursday and your Akan name is " + femaleNames[4])
+    } else if (Math.round(dayOfWeek) == 6 && gender === "female") {
+        alert("Born on Friday and your Akan name is " + femaleNames[5])
+    } else if (Math.round(dayOfWeek) == 7 && gender === "female") {
+        alert("Born on Saturday and your Akan name is " + femaleNames[6])
     }
-}
+0}
