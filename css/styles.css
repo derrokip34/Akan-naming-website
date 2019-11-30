@@ -26,3 +26,6 @@ table, th, tr {
     font-style: italic;
     font-size: 25px;
 }
+caption {
+    font-size: 40px;
+}
