@@ -38,6 +38,9 @@ This is an Akan naming website. A user will enter his birthday and their gendere
 - Day of week born
 - Akan name(akan name corresponding to day of the week born and gender)
 
+## Contact Information
+To contact me, reach me on my [Email](derrickip34@gmail.com)
+
 ## Copyright and License info
 
 [MIT license](https://github.com/derrokip34/Akan-naming-website/blob/master/license.md)
