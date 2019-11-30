@@ -26,6 +26,18 @@ This is an Akan naming website. A user will enter his birthday and their gendere
 - Javascript
 - Markdown
 
+## BDD
+#### Input required
+- Century(first two digits of year born)
+- Year(last two digits of year born)
+- Month(month born in number)
+- Day(day of the month born)
+- Gender
+
+#### Output
+- Day of week born
+- Akan name(akan name corresponding to day of the week born and gender)
+
 ## Copyright and License info
 
 [MIT license](https://github.com/derrokip34/Akan-naming-website/blob/master/license.md)
