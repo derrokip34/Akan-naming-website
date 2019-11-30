@@ -9,3 +9,9 @@ body {
 fieldset {
     background-image: url('../images/download.png');
 }
+#result {
+	font-style: oblique;
+	color: black;
+	font-size: 50px;
+    float: left;
+}
