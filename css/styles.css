@@ -1,5 +1,5 @@
 body {
-    background-image: url('../images/b.jpg');
+    background-image: url('../images/images.jpg');
 }
 .form {
     margin-left: 20%;
@@ -8,6 +8,7 @@ body {
 }
 fieldset {
     background-image: url('../images/download.png');
+    align: center;
 }
 #result {
 	font-style: oblique;
@@ -16,9 +17,10 @@ fieldset {
     float: left;
 }
 table, th, tr {
-    border: 1px solid black;
+    border: 1px solid blue;
     text-align: center;
     font-weight: bold;
+    padding: 1px;
 }
 .heading {
     font-style: italic;
