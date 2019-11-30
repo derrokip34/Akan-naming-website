@@ -15,3 +15,6 @@ fieldset {
 	font-size: 50px;
     float: left;
 }
+table, th, tr {
+    border: 1px solid black;
+}
