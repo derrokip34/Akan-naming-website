@@ -44,5 +44,7 @@ function submition(){
         alert("Born on Friday and your Akan name is " + femaleNames[5])
     } else if (Math.round(dayOfWeek) == 7 && gender === "female") {
         alert("Born on Saturday and your Akan name is " + femaleNames[6])
+    } else {
+        alert("Please fill the form")
     }
 0}
