@@ -20,3 +20,7 @@ table, th, tr {
     text-align: center;
     font-weight: bold;
 }
+.heading {
+    font-style: italic;
+    
+}
