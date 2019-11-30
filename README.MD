@@ -19,3 +19,5 @@ This is an Akan naming website. A user will enter his birthday and their gendere
 #### Open index.html in the browser
 
 ## [Link to live site](https://derrokip34.github.io/Akan-naming-website/)
+
+## [Link to live site](https://derrokip34.github.io/Akan-naming-website/)
