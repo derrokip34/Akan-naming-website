@@ -12,6 +12,7 @@ This is an Akan naming website. A user will enter his birthday and their gender 
 - A web browser
 - Github account
 - Visual studio code or any text editing software
+- Terminal
 
 #### Clone the repository by typing the following command in the terminal
 `git clone https://derrokip34.github.io/Akan-naming-website/`
